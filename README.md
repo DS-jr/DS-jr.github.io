@@ -1,5 +1,8 @@
 ## Welcome to GitHub Pages
 
+- (Woody Allen)   “80 percent of success is showing up."  
+- What causes Burnout?  ==  Usually, it's a combination of unrealistic expectations of our capacity and an inability to set healthy boundaries (to say NO).
+
 You can use the [editor on GitHub](https://github.com/DS-jr/ds-jr.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
