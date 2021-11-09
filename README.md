@@ -68,8 +68,6 @@
 
 
     </body>
-</html>
-
 
 <--! 
 <img src="https://hwbnj2pyhhz13ifsc31voeu1-wpengine.netdna-ssl.com/wp-content/uploads/Nighthawks.jpg" width="800" height="400" alt="'Nighthawks' painting by Edward Hopper">
@@ -117,3 +115,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out. 
 -->
+
+</html>
