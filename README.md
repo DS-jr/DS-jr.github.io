@@ -58,7 +58,7 @@
 		<li> (**) Short-list of my favourite TEXT articles & blogposts **Use my List from my Pocket via API = https://getpocket.com/export </li>
 		<li>  </li>
 		<li><a href="https://docs.google.com/document/d/1Rt7S_Wwux2307M299x8PSm1E7Ppk2d8_NbjASbyX_v0/edit">My bio</a></li>
-		<li>My <a href="t.me/links_top_content">Telegram channel</a> in Russian with links to high-quality educational & useful content ( t.me/links_top_content )  </li>
+		<li>My <a href="www.t.me/links_top_content">Telegram channel</a> in Russian with links to high-quality educational & useful content ( t.me/links_top_content )  </li>
 
 
 
