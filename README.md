@@ -40,7 +40,7 @@
     <body>
       <header></header>  <!--  ??  -->
 
-        <h1>Dmitry Sokolov. Personal website</h1>
+        <h1>Dmitry Sokolov's personal webpage</h1>
 
         <h2>Contents</h2> 
 	    <ul>
