@@ -36,7 +36,7 @@
 		<li>List of <a href="https://www.amazon.com/gp/registry/wishlist/2FM1ZVT43BC11/">books</a> I’ve recently finished & can recommend as "worth reading"</li>
 		<li>Playlist of <a href="https://www.youtube.com/playlist?list=PLxKZR2Z7MGePbXu2-dr7AvHh4uvRXrZc7">YouTube interviews</a>, carefully selected by me as "must share"</li>
 		<li>List of valuable <a href="https://jamesclear.com/great-speeches"> commencement speeches</a> (video + text transcripts)</li>
-		<li>Read famous quotes about <a href="https://www.goodreads.com/quotes/tag/failure">failure</a>, <a href="https://www.goodreads.com/quotes/tag/wisdom">wisdom</a>, <a href="https://www.goodreads.com/quotes/tag/friendship">friendship</a> or a general <a href="https://www.goodreads.com/quotes"> list of various great quotes</a>
+		<li>Read famous quotes about <a href="https://www.goodreads.com/quotes/tag/failure">failure</a>, <a href="https://www.goodreads.com/quotes/tag/wisdom">wisdom</a>, <a href="https://www.goodreads.com/quotes/tag/friendship">friendship</a> or a general <a href="https://www.goodreads.com/quotes"> list of various great quotes</a></li>
 	    </ul>
 
     </body>
