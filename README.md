@@ -46,7 +46,7 @@
 	<ul>
 		<li>Read one of <a href="https://www.poemhunter.com/p/m/l.asp?p=1&l=Top500&order=title">top-500</a> greatest poems of all time in English </li>
 		<li>Read a brief comic sketch at <a href="https://dilbert.com/">Dilbert.com</a> (work / office humour) or at <a href="https://xkcd.com/">xkcd.com</a> (geek / intellectual humour)</li>
-		<li>Short-list of my favourite <a href="https://www.ted.com/profiles/9098508/likes">TED talks<a/> (videos & transcripts)</li>
+		<li>Short-list of my favourite <a href="https://www.ted.com/profiles/9098508/likes">TED talks</a> (videos & transcripts)</li>
 		<li>List of <a href="https://www.amazon.com/gp/registry/wishlist/2FM1ZVT43BC11/">books</a> I’ve recently finished, enjoyed & can recommend as "worth reading"</li>
 		<li>Playlist of valuable <a href="https://www.youtube.com/playlist?list=PLxKZR2Z7MGePbXu2-dr7AvHh4uvRXrZc7">YouTube videos & interviews</a>, carefully selected by me as "must share"</li>
 		<li>List of valuable <a href="https://jamesclear.com/great-speeches"> commencement speeches</a> (video + text transcripts)</li>
