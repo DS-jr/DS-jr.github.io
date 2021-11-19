@@ -61,12 +61,6 @@
 		<li>My <a href="www.t.me/links_top_content">Telegram channel</a> in Russian with links to high-quality educational & useful content ( t.me/links_top_content )  </li>
 
 
-
-<p title="Put AWAY your mouse & go to WORK!">Paragraph text here (...)</p>
-
-       <h2> ... (CDL) ... </h2>
-
-
     </body>
 
 <--! 
