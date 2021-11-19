@@ -40,7 +40,7 @@
     <body>
       <header></header>  <!--  ??  -->
 
-        <h1>My personal Website & Blog</h1>
+        <h1>My personal Website </h1>
 
         <h2>Contents</h2>
 	<ul>
