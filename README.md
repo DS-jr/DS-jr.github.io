@@ -42,8 +42,8 @@
 
         <h1>My personal Website </h1>
 
-        <h2>Contents</h2>
-
+        <h2>Contents</h2> 
+	    <ul>
 		<li>Read one of <a href="https://www.poemhunter.com/p/m/l.asp?p=1&l=Top500&order=title">top-500</a> greatest poems of all time in English </li>
 		<li>Read a brief comic sketch at <a href="https://dilbert.com/">Dilbert.com</a> (work / office humour) or at <a href="https://xkcd.com/">xkcd.com</a> (geek / intellectual humour)</li>
 		<li>Short-list of my favourite <a href="https://www.ted.com/profiles/9098508/likes">TED talks</a> (videos & transcripts)</li>
@@ -59,7 +59,7 @@
 		<li>  </li>
 		<li><a href="https://docs.google.com/document/d/1Rt7S_Wwux2307M299x8PSm1E7Ppk2d8_NbjASbyX_v0/edit">My bio</a></li>
 		<li>My <a href="www.t.me/links_top_content">Telegram channel</a> in Russian with links to high-quality educational & useful content ( t.me/links_top_content )  </li>
-
+	    </ul>
 
     </body>
 
