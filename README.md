@@ -30,9 +30,9 @@
 	    </ul>
         <h2>Links, resources:</h2> 
 	    <ul>
-		<li>Read famous quotes about <a href="https://www.goodreads.com/quotes/tag/failure">failure</a>, <a href="https://www.goodreads.com/quotes/tag/wisdom">wisdom</a>, <a href="https://www.goodreads.com/quotes/tag/friendship">friendship</a> or a general <a href="https://www.goodreads.com/quotes"> list of various great quotes</a></li>
 		<li>Read one of <a href="https://www.poemhunter.com/p/m/l.asp?p=1&l=Top500&order=title">top-500</a> greatest poems of all time in English </li>
-		<li>Read a brief comic sketch at <a href="https://xkcd.com/">xkcd.com</a> (geek & intellectual humour) or at <a href="https://dilbert.com/">Dilbert.com</a> (work & office humour)</li>
+		<li>Read a brief comic sketch at <a href="https://xkcd.com/">xkcd.com</a> (geek & intellectual humour)</li>
+		<li>Read famous quotes about <a href="https://www.goodreads.com/quotes/tag/failure">failure</a>, <a href="https://www.goodreads.com/quotes/tag/wisdom">wisdom</a>, <a href="https://www.goodreads.com/quotes/tag/friendship">friendship</a> or a general <a href="https://www.goodreads.com/quotes"> list of various great quotes</a></li>
 		<li>Short-list of my favourite <a href="https://www.ted.com/profiles/9098508/likes">TED talks</a> (videos & transcripts)</li>
 		<li>List of <a href="https://www.amazon.com/gp/registry/wishlist/2FM1ZVT43BC11/">books</a> I’ve recently finished & can recommend as "worth reading"</li>
 		<li>Playlist of <a href="https://www.youtube.com/playlist?list=PLxKZR2Z7MGePbXu2-dr7AvHh4uvRXrZc7">YouTube interviews</a>, carefully selected by me as "must share"</li>
