@@ -7,23 +7,6 @@
             body {
               margin: 0 auto;
               max-width: 50em;
-              /* background-color: rgb(214, 199, 101); 
-              color: #555;
-              font-family: "Georgia";
-              line-height: 1.5;
-              padding: 4em 1em;
-            }
-            h2 {
-              margin-top: 1em;
-              padding-top: 1em;
-            }
-            h1,
-            h2,
-            strong {
-              color: #333;
-            }
-            a {
-              color: #e81c4f;   /* Change this color!  */
             }
             header {
               background-color: #263d36;
@@ -38,7 +21,7 @@
         </style>
     </head>
     <body>
-      <header></header>  <!--  ??  -->
+      <header></header>  
 
         <h1>Dmitry Sokolov's personal webpage</h1>
 	    <ul>
