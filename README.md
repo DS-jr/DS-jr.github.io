@@ -1,2 +1,2 @@
 # ds-jr.github.io
-# This is a my draft personal webpage
+# This is my draft personal webpage
